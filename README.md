@@ -22,4 +22,4 @@ In fondo alla pagina troviamo un bottone che al click restituisce le successive 
 
 ## Link diretto al sito
 
- 
+https://l-falcone.github.io/Tech-Times/ 
