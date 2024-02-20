@@ -5,6 +5,8 @@ E' basato sull’idea di riprodurre una pagina di un vecchio giornale ma con not
 
 ## Struttura
 
+Tutti gli articoli sono gestiti tramite API del servizio esterno HACKER NEWS.
+
 La struttura della pagina si presenta con il logo del sito in cima alla pagina.
 
 Successivamente troviamo tre contenitori che contengono le news.
